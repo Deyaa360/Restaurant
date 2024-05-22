@@ -20,12 +20,12 @@
    * COLORS
    */
 
-   --gold-crayola: hsl(40, 100%, 50%); /* Turmeric Yellow */
---quick-silver: hsla(28, 100%, 65%, 1); /* Ginger Orange */
---davys-grey: hsla(345, 100%, 55%, 1); /* Chili Red */
---smoky-black-1: hsla(15, 60%, 40%, 1); /* Cinnamon Brown */
---smoky-black-2: hsla(20, 50%, 30%, 1); /* Cumin Brown */
---smoky-black-3: hsla(10, 40%, 20%, 1); /* Tamarind Brown */
+   --gold-crayola: hsl(146, 64%, 38%); /* Starbucks Green */
+--quick-silver: hsla(146, 57%, 45%, 1); /* Lighter Green */
+--davys-grey: hsla(146, 48%, 31%, 1); /* Darker Green */
+--smoky-black-1: hsla(146, 40%, 25%, 1); /* Dark Green */
+--smoky-black-2: hsla(146, 30%, 20%, 1); /* Darker Green */
+--smoky-black-3: hsla(146, 20%, 15%, 1); /* Very Dark Green */
 --eerie-black-1: hsla(0, 0%, 0%, 1); /* Black */
 --eerie-black-2: hsla(0, 0%, 10%, 1); /* Very Dark Gray */
 --eerie-black-3: hsla(0, 0%, 20%, 1); /* Dark Gray */
@@ -36,6 +36,7 @@
 --black: hsla(0, 0%, 0%, 1); /* Black */
 --black-alpha-80: hsla(0, 0%, 0%, 0.8); /* Semi-transparent Black */
 --black-alpha-15: hsla(0, 0%, 0%, 0.15); /* More Transparent Black */
+
 
 
 

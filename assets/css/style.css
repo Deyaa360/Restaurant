@@ -296,7 +296,7 @@ body.nav-active { overflow: hidden; }
   height: 5px;
   border-block: 1px solid var(--gold-crayola);
   transform: scaleX(0.2);
-  opacity: 1;
+  opacity: 0;
   transition: var(--transition-2);
 }
 
